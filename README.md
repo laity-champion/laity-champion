@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **laity-champion/laity-champion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,3 +36,11 @@ Here are some ideas to get you started:
   </div>
 <p><b>Technology has the power to make the world a better place</b></p>
 </div>
+
+## Hi! Nice to meet you!
+
+<!-- 个人简介 -->
+- 👋 Hi, I’m @laity-champion
+- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
+- 🌱 I am currently a Java backend development engineer.We are working hard to move forward!!!
+- 📫 How to reach me? Email: laity@qq.com
